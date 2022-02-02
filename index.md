@@ -1,4 +1,4 @@
-## 冬優ちゃん的MCBE服务器
+## 冬優ちゃん的MC服务器
 
 游戏版本：Minecraft Bedrock Edition 1.18.2.03
 
