@@ -1,4 +1,4 @@
-## 冬優ちゃん的MC服务器
+# 冬優ちゃん的MC服务器
 
 游戏版本：Minecraft Bedrock Edition 1.18.2.03
 
@@ -10,9 +10,9 @@
 
 在线验证：是
 
-服务器地址：mc.fuibafuyu.top:19132
+服务器地址：server.fuibafuyu.top:19132
 
-### 游戏下载
+## 游戏下载
 
 <a href="https://pan.bilnn.cn/s/4anLTp">Android（解验证版）</a>
 
