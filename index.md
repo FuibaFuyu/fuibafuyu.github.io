@@ -1,6 +1,8 @@
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=340 height=86 src="//music.163.com/outchain/player?type=2&id=29356464&auto=0&height=66"></iframe>
-
 ## 冬優ちゃん的MC服务器
+
+<div align="center">
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=340 height=86 src="//music.163.com/outchain/player?type=2&id=29356464&auto=0&height=66"></iframe>
+<div>
 
 游戏版本：Minecraft Bedrock Edition 1.18.2.03
 
