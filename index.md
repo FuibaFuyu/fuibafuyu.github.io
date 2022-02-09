@@ -4,7 +4,7 @@
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=340 height=86 src="//music.163.com/outchain/player?type=2&id=29356464&auto=0&height=66"></iframe>
 </div>
 
-游戏版本：Minecraft Bedrock Edition 1.18.2.03
+游戏版本：Minecraft Bedrock Edition 1.18.10
 
 游戏模式：生存
 
@@ -18,9 +18,9 @@
 
 ## <center>游戏下载</center>
 
-<a href="https://pan.bilnn.cn/s/4anLTp">Android（解验证版）</a>
+<a href="https://pan.bilnn.cn/s/l6mlFM">Android（解验证版）</a>
 
-<a href="https://mashiro.studio/11820">Windows（原版）</a>
+<a href="https://www.xbox.com/zh-cn/games/store/minecraft-for-windows/9nblggh2jhxj">Windows（Xbox）</a>
 
 ## <center>游戏视频（雾</center>
 
