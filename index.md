@@ -1,8 +1,6 @@
-<head>
-  <title>冬優ちゃんの个人网页</title>
-  <link rel="icon" href="http://download.fuibafuyu.top/Other/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="http://download.fuibafuyu.top/Other/favicon_128x128.ico" type="image/x-icon">
-</head>
+<title>冬優ちゃんの个人网页</title>
+<link rel="icon" href="http://download.fuibafuyu.top/Other/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://download.fuibafuyu.top/Other/favicon_128x128.ico" type="image/x-icon">
 
 <div align="center">
   <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=340 height=86 src="//music.163.com/outchain/player?type=2&id=29356464&auto=0&height=66"></iframe>
