@@ -22,7 +22,7 @@
 
 ## <center>游戏下载</center>
 
-<a href="https://pan.bilnn.cn/s/l6mlFM">Android（解验证版）</a>
+<a href="http://download.fuibafuyu.top/Program/Android/Minecraft/MCBE_1.18.10.04.apk">Android（解验证版）</a>
 
 <a href="https://www.xbox.com/zh-cn/games/store/minecraft-for-windows/9nblggh2jhxj">Windows（Xbox）</a>
 
