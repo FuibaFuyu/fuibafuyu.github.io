@@ -61,7 +61,6 @@
 
 <a href="https://easyig.site/">EasyIG</a>
 
-<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8">
