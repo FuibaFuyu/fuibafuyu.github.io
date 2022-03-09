@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <title>冬優ちゃんの个人网页</title>
     <link rel="shortcut icon" type="image/x-icon" href="/static/img/favicon.ico?">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
 
 {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -19,7 +18,7 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">冬優ちゃんの个人网页</h1>
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
     </header>
 
     <main id="content" class="main-content" role="main">
@@ -27,8 +26,6 @@
 
     </main>
   </body>
-
-  <script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
 
   <script>
 
@@ -99,4 +96,15 @@
         }
     })(window,document);
 </script>
+</html>
+
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
+	</head>
+	<body>
+	</body>
+	<script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
 </html>
