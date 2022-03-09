@@ -2,7 +2,7 @@
 	<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=340 height=86 src="//music.163.com/outchain/player?type=2&id=4943034&auto=0&height=66"></iframe>
 </div>
 
-<div align="center">
+<div align="center" "border-radius: 8px">
 	<img src="https://api.xhofe.top/ip/?line1=欢迎访问本站！&line2=fuibafuyu.top">
 </div>
 
@@ -38,7 +38,7 @@
 
 ## <center>游戏视频（雾</center>
 
-<div align="center">
+<div align="center" "border-radius: 8px">
 	
 	<iframe src="//player.bilibili.com/player.html?aid=80433022&bvid=BV1GJ411x7h7&cid=137649199&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 	
