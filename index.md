@@ -43,12 +43,12 @@
 
 # <center>精简系统</center>
 
->[Windows 10 2004 养老版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win10-2004-YangLao-210919.iso "nya~")
->[Windows 10 1803 精简增强版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win10-1803-Plus-ALPHA210208.iso "nya~")
->[Windows 10 2009 精简版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win10-2009-Lite-ALPHA210320.iso "nya~")
->[Windows 10 1703 精简版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win10-1703-Lite-ALPHA210206.iso "nya~")
->[Windows 10 1809 精简版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win10-1809-Lite-ALPHA210311.iso "nya~")
->[Windows 11 21H2 精简版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win11-21H2-Lite-ALPHA211003.iso "nya~")
->[Windows 8.1 精简增强版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win8.1-Plus-ALPHA210214.esd "nya~")
->[Windows 7 精简版（ESD）](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win7-Lite-ALPHA210228.esd "nya~")
+>[Windows 10 2004 养老版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win10-2004-YangLao-210919.iso "nya~")<br>
+>[Windows 10 1803 精简增强版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win10-1803-Plus-ALPHA210208.iso "nya~")<br>
+>[Windows 10 2009 精简版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win10-2009-Lite-ALPHA210320.iso "nya~")<br>
+>[Windows 10 1703 精简版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win10-1703-Lite-ALPHA210206.iso "nya~")<br>
+>[Windows 10 1809 精简版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win10-1809-Lite-ALPHA210311.iso "nya~")<br>
+>[Windows 11 21H2 精简版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win11-21H2-Lite-ALPHA211003.iso "nya~")<br>
+>[Windows 8.1 精简增强版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win8.1-Plus-ALPHA210214.esd "nya~")<br>
+>[Windows 7 精简版（ESD）](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win7-Lite-ALPHA210228.esd "nya~")<br>
 >[Windows 7 精简版（ISO）](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win7-Lite-ALPHA210228.iso "nya~")
