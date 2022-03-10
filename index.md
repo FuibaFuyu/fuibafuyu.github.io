@@ -18,7 +18,7 @@
 
 ## <center>游戏介绍</center>
 
-游戏版本：Minecraft Bedrock Edition 1.18.10
+游戏版本：Minecraft Bedrock Edition 1.18.11
 
 游戏模式：生存
 
@@ -32,9 +32,8 @@
 
 ## <center>游戏下载</center>
 
-<a href="http://download.fuibafuyu.top/Program/Android/Minecraft/MCBE_1.18.10.04.apk">Android（解验证版）</a>
-
-<a href="https://www.xbox.com/zh-cn/games/store/minecraft-for-windows/9nblggh2jhxj">Windows（Xbox）</a>
+>[Android（解验证版）](https://download.fuibafuyu.top/Ali/Program/Android/Minecraft/MCBE_1.18.12.01.apk "おはよう")<br>
+>[Windows（Xbox）](https://www.xbox.com/zh-cn/games/store/minecraft-for-windows/9nblggh2jhxj "うち、フユどす")
 
 ## <center>游戏视频（雾</center>
 
@@ -44,20 +43,12 @@
 
 # <center>精简系统</center>
 
-<a href="http://download.fuibafuyu.top/System/Windows/Lite/Win10-2004-YangLao-210919.iso">Windows 10 2004 养老版</a>
-
-<a href="http://download.fuibafuyu.top/System/Windows/Lite/Win10-1803-Plus-ALPHA210208.iso">Windows 10 1803 精简增强版</a>
-
-<a href="http://download.fuibafuyu.top/System/Windows/Lite/Win10-2009-Lite-ALPHA210320.iso">Windows 10 2009 精简版</a>
-
-<a href="http://download.fuibafuyu.top/System/Windows/Lite/Win10-1703-Lite-ALPHA210206.iso">Windows 10 1703 精简版</a>
-
-<a href="http://download.fuibafuyu.top/System/Windows/Lite/Win10-1809-Lite-ALPHA210311.iso">Windows 10 1809 精简版</a>
-
-<a href="http://download.fuibafuyu.top/System/Windows/Lite/Win11-21H2-Lite-ALPHA211003.iso">Windows 11 21H2 精简版</a>
-
-<a href="http://download.fuibafuyu.top/System/Windows/Lite/Win8.1-Plus-ALPHA210214.esd">Windows 8.1 精简增强版</a>
-
-<a href="http://download.fuibafuyu.top/System/Windows/Lite/Win7-Lite-ALPHA210228.esd">Windows 7 精简版（ESD）</a>
-
-<a href="http://download.fuibafuyu.top/System/Windows/Lite/Win7-Lite-ALPHA210228.iso">Windows 7 精简版（ISO）</a>
+>[Windows 10 2004 养老版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win10-2004-YangLao-210919.iso "nya~")
+>[Windows 10 1803 精简增强版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win10-1803-Plus-ALPHA210208.iso "nya~")
+>[Windows 10 2009 精简版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win10-2009-Lite-ALPHA210320.iso "nya~")
+>[Windows 10 1703 精简版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win10-1703-Lite-ALPHA210206.iso "nya~")
+>[Windows 10 1809 精简版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win10-1809-Lite-ALPHA210311.iso "nya~")
+>[Windows 11 21H2 精简版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win11-21H2-Lite-ALPHA211003.iso "nya~")
+>[Windows 8.1 精简增强版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win8.1-Plus-ALPHA210214.esd "nya~")
+>[Windows 7 精简版（ESD）](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win7-Lite-ALPHA210228.esd "nya~")
+>[Windows 7 精简版（ISO）](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win7-Lite-ALPHA210228.iso "nya~")
