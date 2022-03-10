@@ -4,10 +4,12 @@
 @import 'jekyll-theme-cayman';
 
 @font-face {
-    font-family: 'GS';
+    font-family: 'Google Sans';
     src: url('https://fonts.gstatic.com/s/googlesans/v42/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjIUvQ.woff2') format('woff2');
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC');
+
 body {
-    font-family: "GS";  
+    font-family: 'Google Sans', 'Noto Sans SC';
 }
