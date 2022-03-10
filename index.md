@@ -1,17 +1,10 @@
 <div align="center">
-	<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=350 height=86 src="//music.163.com/outchain/player?type=2&id=450041131&auto=0&height=66"></iframe>
-</div>
-
-<div align="center">
-	<img src="https://api.xhofe.top/ip/?line1=欢迎访问本站！&line2=fuibafuyu.top">
-</div>
-
-<div align="center">
-	<span id="jinrishici-sentence"></span>
-</div>
-
-<div align="center">
+	<h3 id="jinrishici-sentence"></h3>
 	<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+</div>
+
+<div align="center">
+	<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=350 height=86 src="//music.163.com/outchain/player?type=2&id=450041131&auto=0&height=66"></iframe>
 </div>
 
 # <center>MC服务器</center>
@@ -52,3 +45,11 @@
 >[Windows 8.1 精简增强版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win8.1-Plus-ALPHA210214.esd "nya~")<br>
 >[Windows 7 精简版（ESD）](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win7-Lite-ALPHA210228.esd "nya~")<br>
 >[Windows 7 精简版（ISO）](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win7-Lite-ALPHA210228.iso "nya~")
+
+<div align="center">
+	<img src="https://api.xhofe.top/ip/?line1=欢迎访问本站！&line2=fuibafuyu.top">
+</div>
+
+<div align="center">
+	本站已稳定运行：<span id="htmer_time"></span>
+</div>
