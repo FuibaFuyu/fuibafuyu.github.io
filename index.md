@@ -39,9 +39,7 @@
 ## <center>游戏视频（雾</center>
 
 <div align="center">
-	
 	<iframe src="//player.bilibili.com/player.html?aid=80433022&bvid=BV1GJ411x7h7&cid=137649199&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-	
 </div>
 
 # <center>精简系统</center>
@@ -63,11 +61,3 @@
 <a href="http://download.fuibafuyu.top/System/Windows/Lite/Win7-Lite-ALPHA210228.esd">Windows 7 精简版（ESD）</a>
 
 <a href="http://download.fuibafuyu.top/System/Windows/Lite/Win7-Lite-ALPHA210228.iso">Windows 7 精简版（ISO）</a>
-
-# <center>友情链接</center>
-
-<a href="https://www.puresys.net/">Puresys</a>
-
-<a href="https://firpe.cn/">FirPE</a>
-
-<a href="https://easyig.site/">EasyIG</a>
