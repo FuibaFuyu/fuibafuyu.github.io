@@ -45,11 +45,3 @@
 >[Windows 8.1 精简增强版](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win8.1-Plus-ALPHA210214.esd "nya~")<br>
 >[Windows 7 精简版（ESD）](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win7-Lite-ALPHA210228.esd "nya~")<br>
 >[Windows 7 精简版（ISO）](https://download.fuibafuyu.top/OD/System/Windows/Lite/Win7-Lite-ALPHA210228.iso "nya~")
-
-<div align="center">
-	<img src="https://api.xhofe.top/ip/?line1=欢迎访问本站！&line2=fuibafuyu.top">
-</div>
-
-<div align="center">
-	本站已稳定运行：<span id="htmer_time"></span>
-</div>
