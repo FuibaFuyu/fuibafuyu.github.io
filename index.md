@@ -26,7 +26,7 @@
 ## <center>游戏下载</center>
 
 >[Android（解验证版）](https://download.fuibafuyu.top/Ali/Program/Android/Minecraft/MCBE_1.18.12.01.apk "おはよう")<br>
->[Windows（Xbox）](https://www.xbox.com/zh-cn/games/store/minecraft-for-windows/9nblggh2jhxj "うち、フユどす")
+><a href="https://www.xbox.com/zh-cn/games/store/minecraft-for-windows/9nblggh2jhxj" target="_blank" rel="noopener noreferrer" title="うち、フユどす">Windows（Xbox）</a>
 
 ## <center>游戏视频（雾</center>
 
