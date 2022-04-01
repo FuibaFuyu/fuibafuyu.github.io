@@ -40,17 +40,3 @@
 <div align="center">
 	<iframe src="//player.bilibili.com/player.html?aid=80433022&bvid=BV1GJ411x7h7&cid=137649199&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </div>
-
-
-<meting-js
-        server="netease"    <%--平台--%>
-        type="song"        <%--类型--%>
-        id="36492782"         <%--播放列表ID--%>
-        fixed="true"        <%--固定模式--%>
-        autoplay="true"   <%--自动播放--%>
-        loop="one"          <%--循环--%>
-        order="list"      <%--顺序--%>
-        preload="auto"      <%--加载--%>
-        list-folded="ture"      <%--列表折叠--%>
-        lrc-type="1">       <%--歌词--%>
-</meting-js>
