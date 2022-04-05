@@ -18,7 +18,7 @@
 
 ## <center>游戏介绍</center>
 
-游戏版本：Minecraft Bedrock Edition 1.18.11
+游戏版本：Minecraft Bedrock Edition 1.18.12
 
 游戏模式：生存
 
