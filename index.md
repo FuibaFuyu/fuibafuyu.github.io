@@ -43,4 +43,6 @@
 
 # <center>COVID-19统计信息</center>
 
-<iframe src="https://cn.bing.com/covidans/widget?&setlang=zh-CN&lcid=taiwan&mt=map" height="545" frameborder="no" scrolling="no" border="0" width="100%"> </iframe>
+<div align="center">
+	<iframe src="https://cn.bing.com/covidans/widget?&setlang=zh-CN&lcid=taiwan&mt=map" height="545" frameborder="no" scrolling="no" border="0" width="100%"> </iframe>
+</div>
