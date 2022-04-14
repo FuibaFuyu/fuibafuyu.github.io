@@ -18,7 +18,7 @@
 
 ## <center>游戏介绍</center>
 
-游戏版本：Minecraft Bedrock Edition 1.18.12
+游戏版本：Minecraft BE 1.18.12
 
 游戏模式：生存
 
@@ -28,7 +28,9 @@
 
 在线验证：是
 
-服务器地址：server.fuibafuyu.top:19132
+服务器地址：server.fuibafuyu.top
+
+端口：19132
 
 ## <center>游戏下载</center>
 
