@@ -34,8 +34,8 @@
 
 ## <center>游戏下载</center>
 
->[Android（解验证版）](https://download.fuibafuyu.top/Ali/Program/Android/Minecraft/MCBE_1.18.12.01.apk "おはよう")<br>
-><a href="https://www.xbox.com/zh-cn/games/store/minecraft-for-windows/9nblggh2jhxj" target="_blank" rel="noopener noreferrer" title="うち、フユどす">Windows（Xbox）</a>
+>[Android（解验证版）](/Minecraft_for_Android "要致富，先撸树。")<br>
+>[Windows（需正版）](/Minecraft_for_Windows_10 "此生无悔入MC，来世愿做方块人。")
 
 ## <center>游戏视频（雾</center>
 
