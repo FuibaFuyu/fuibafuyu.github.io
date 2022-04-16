@@ -18,7 +18,7 @@
 
 ## <center>游戏介绍</center>
 
-游戏版本：Minecraft BE 1.18.12
+游戏版本：Minecraft BE 1.18.12.01
 
 游戏模式：生存
 
