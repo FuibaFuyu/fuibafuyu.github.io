@@ -1,5 +1,5 @@
 <div align="center">
-	<h3 id="jinrishici-sentence"></h3>
+	<h3 id="jinrishici-sentence" style="color: white"></h3>
 	<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
 </div>
 
