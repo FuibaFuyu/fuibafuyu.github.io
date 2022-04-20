@@ -28,7 +28,7 @@
 
 在线验证：是
 
-服务器地址：server.fuibafuyu.top
+服务器地址：server.fuibafuyu.cn
 
 端口：19132
 
