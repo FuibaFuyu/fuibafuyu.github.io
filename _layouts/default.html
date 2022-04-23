@@ -11,24 +11,15 @@
     <link rel="icon" sizes="256x256" href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/icon-256.png">
     <link rel="icon" sizes="384x384" href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/icon-384.png">
     <link rel="icon" sizes="512x512" href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/icon-512.png">
-    <link rel="apple-touch-icon" sizes="120x120"
-        href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/apple-touch-icon-120.png">
-    <link rel="apple-touch-icon" sizes="152x152"
-        href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/apple-touch-icon-152.png">
-    <link rel="apple-touch-icon" sizes="167x167"
-        href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/apple-touch-icon-167.png">
-    <link rel="apple-touch-icon" sizes="180x180"
-        href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/apple-touch-icon-180.png">
-    <link rel="icon" type="iamge/png" sizes="16x16"
-        href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/favicon-16.png">
-    <link rel="icon" type="iamge/png" sizes="32x32"
-        href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/favicon-32.png">
-    <link rel="icon" type="iamge/png" sizes="64x64"
-        href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/favicon-64.png">
-    <link rel="icon" type="iamge/png" sizes="128x128"
-        href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/favicon-128.png">
-    <link rel="shortcut icon" type="image/x-icon"
-        href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/favicon.ico">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/apple-touch-icon-120.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/apple-touch-icon-152.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/apple-touch-icon-167.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/apple-touch-icon-180.png">
+    <link rel="icon" type="iamge/png" sizes="16x16" href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/favicon-16.png">
+    <link rel="icon" type="iamge/png" sizes="32x32" href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/favicon-32.png">
+    <link rel="icon" type="iamge/png" sizes="64x64" href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/favicon-64.png">
+    <link rel="icon" type="iamge/png" sizes="128x128" href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/favicon-128.png">
+    <link rel="shortcut icon" type="image/x-icon" href="https://icon-1307697888.cos.ap-beijing.myqcloud.com/favicon.ico">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
     <script src="https://cdn.jsdelivr.net/gh/FuibaFuyu/live2d-widget@latest/autoload.js"></script>
 
@@ -55,19 +46,20 @@
     </style>
 
     {% seo %}
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Google+Sans:400,700%7CNoto+Sans+SC:400,700%7C&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
+    <meta name="theme-color" content="#FB7299">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
 </head>
 
 <body>
-    <header role="banner">
-        <center>
-            <h1 class="project-name" style="color: white"><br>冬優ちゃんの小窝</h1>
-            <h2 class="project-tagline"></h2><a href="https://www.fuibafuyu.cn" class="btn">首页</a>
-        </center>
+    <header class="page-header" role="banner">
+        <h1 class="project-name">冬優ちゃんの小窝</h1>
+        <h2 class="project-tagline"></h2>
+        <a href="https://www.fuibafuyu.cn" class="btn">首页</a>
     </header>
 
     <main id="content" class="main-content" role="main">
@@ -144,7 +136,9 @@
             time[4] = second;
         }
         return time;
-    }</script>
+    }
+</script>
+
 <script type="text/javascript" language="javascript">
     function setTime() {
         var create_time = Math.round(new Date(Date.UTC(2021, 10, 13, 11, 20, 47)).getTime() / 1000);
