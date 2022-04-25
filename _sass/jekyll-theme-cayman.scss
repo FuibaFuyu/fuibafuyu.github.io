@@ -56,10 +56,10 @@ a {
   color: $body-text-color;
   text-decoration: none;
 
-  &:link {text-decoration: underline;}
-  &:visited {text-decoration: underline;}
-  &:hover {text-decoration: underline; color: $body-link-color;}
-  &:active {text-decoration: underline;}
+  &:hover {
+    color: $body-link-color;
+    text-decoration: underline;
+  }
 }
 
 .btn {
