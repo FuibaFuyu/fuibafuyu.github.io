@@ -26,22 +26,48 @@
     <style>
         body,
         header::before {
-            background: url(https://img-1307697888.cos.ap-beijing.myqcloud.com/background.jpg) no-repeat center / cover fixed;
+            -webkit-background: url(https://img-1307697888.cos.ap-beijing.myqcloud.com/background.jpg) no-repeat center / cover fixed;
+            -moz-background: url(https://img-1307697888.cos.ap-beijing.myqcloud.com/background.jpg) no-repeat center / cover fixed;
+            -o-background: url(https://img-1307697888.cos.ap-beijing.myqcloud.com/background.jpg) no-repeat center / cover fixed;
         }
 
         header {
-            position: relative;
+            -webkit-position: relative;
+            -moz-position: relative;
+            -o-position: relative;
         }
 
         header::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            right: 0;
-            bottom: 0;
-            left: 0;
-            filter: blur(8px);
-            z-index: -1;
+            -webkit-content: '';
+            -webkit-position: absolute;
+            -webkit-top: 0;
+            -webkit-right: 0;
+            -webkit-bottom: 0;
+            -webkit-left: 0;
+            -webkit-filter: blur(8px);
+            -webkit-z-index: -1;
+            
+            -moz-content: '';
+            -moz-position: absolute;
+            -moz-top: 0;
+            -moz-right: 0;
+            -moz-bottom: 0;
+            -moz-left: 0;
+            -moz-filter: blur(8px);
+            -moz-z-index: -1;
+
+            -o-content: '';
+            -o-position: absolute;
+            -o-top: 0;
+            -o-right: 0;
+            -o-bottom: 0;
+            -o-left: 0;
+            -o-filter: blur(8px);
+            -o-z-index: -1;
+        }
+
+        body {
+            -ms-background: url(https://img-1307697888.cos.ap-beijing.myqcloud.com/background.jpg) no-repeat center / cover fixed;
         }
     </style>
 
