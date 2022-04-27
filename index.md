@@ -7,10 +7,10 @@
 
 # 精简系统
 
->[Windows 11 精简版](/11 "nya~")<br>
->[Windows 10 精简版](/10 "nya~")<br>
->[Windows 8.1 精简版](/8.1 "nya~")<br>
->[Windows 7 精简版](/7 "nya~")<br>
+>[Windows 11 精简版](/11)<br>
+>[Windows 10 精简版](/10)<br>
+>[Windows 8.1 精简版](/8.1)<br>
+>[Windows 7 精简版](/7)<br>
 
 # MC服务器
 
