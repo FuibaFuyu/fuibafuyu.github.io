@@ -1,4 +1,4 @@
-## kaguranana OS
+## <a style="color: #fff" href="https://space.bilibili.com/640736191" title="By bilibili@sukikirakira">奈奈定制系统</a>
 
 <p align="center">
     <a class="btn" href="https://download.fuibafuyu.cn/d/123/System/Windows/kaguranana/kaguranana%20OS.wim">联通下载</a>
