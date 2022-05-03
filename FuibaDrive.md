@@ -1,2 +1,2 @@
-## 云盘合并公告
+# 云盘合并公告
 本云盘已与[千雪云盘](https://yp.cqzhx.top)合并，如需获取数据需先注册[千雪云盘](https://yp.cqzhx.top)，再将原[风衣叶云盘](https://drive.fuibafuyu.top)及现[千雪云盘](https://yp.cqzhx.top)UID发送至邮箱fuyu@fuibafuyu.top以申请迁移，迁移后将获得永久VIP（1TB日本东京数据存储）。
