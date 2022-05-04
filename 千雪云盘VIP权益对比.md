@@ -8,4 +8,12 @@
 |   容量   |   500GB  |     1TB     |     2TB     |
 |   价格   |   免费   |     未定    |     未定    |
 
-<style>table {margin: 0 auto}</style>
+<style>
+    #千雪云盘VIP权益对比 {
+        text-align: left;
+    }
+
+    #友情链接 {
+        text-align: left;
+    }
+</style>
