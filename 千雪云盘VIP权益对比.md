@@ -8,4 +8,4 @@
 |   容量   |   500GB  |     1TB     |     2TB     |
 |   价格   |   免费   |     未定    |     未定    |
 
-<style>table {margin: auto}</style>
+<style>table {margin: 0 auto}</style>
