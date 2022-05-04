@@ -9,7 +9,7 @@
 |   价格   |   免费   |     未定    |     未定    |
 
 <style>
-    #千雪云盘VIP权益对比 {
+    #千雪云盘vip权益对比 {
         text-align: left;
     }
 
