@@ -32,6 +32,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
+  background: url(https://img-1307697888.cos.ap-beijing.myqcloud.com/background.jpg) no-repeat center / cover fixed;
 }
 
 #skip-to-content {
@@ -66,6 +67,7 @@ a {
   margin-bottom: 1rem;
   color: rgba(255, 255, 255, 0.7);
   background-color: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(32px);
   border-color: rgba(255, 255, 255, 0.2);
   border-style: solid;
   border-width: 1px;
@@ -106,6 +108,8 @@ a {
 }
 
 .page-header {
+  position: fixed;
+  backdrop-filter: blur(16px);
   color: $header-heading-color;
   text-align: center;
 
@@ -158,6 +162,7 @@ a {
 }
 
 .main-content {
+  margin-top: 100%;
   word-wrap: break-word;
 
   :first-child {
