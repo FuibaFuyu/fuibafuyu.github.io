@@ -108,7 +108,7 @@ a {
 }
 
 .page-header {
-  top: 0
+  top: 0;
   width: 100%;
   position: fixed;
   backdrop-filter: blur(16px);
@@ -164,7 +164,6 @@ a {
 }
 
 .main-content {
-  margin-top: 100%;
   word-wrap: break-word;
 
   :first-child {
@@ -174,17 +173,19 @@ a {
   @include large {
     max-width: 64rem;
     padding: 2rem 6rem;
-    margin: 0 auto;
+    margin: 5rem auto auto auto;
     font-size: 1.1rem;
   }
 
   @include medium {
     padding: 2rem 4rem;
+    margin: 3rem auto auto auto;
     font-size: 1.1rem;
   }
 
   @include small {
     padding: 2rem 1rem;
+    margin: 2rem auto auto auto;
     font-size: 1rem;
   }
   
