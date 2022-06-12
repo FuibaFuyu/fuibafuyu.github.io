@@ -81,7 +81,7 @@ a {
     border-color: rgba(255, 255, 255, 0.3);
   }
 
-  + .btn {
+  +.btn {
     margin-left: 1rem;
   }
 
@@ -100,7 +100,7 @@ a {
     padding: 0.75rem;
     font-size: 0.9rem;
 
-    + .btn {
+    +.btn {
       margin-top: 1rem;
       margin-left: 0;
     }
@@ -190,7 +190,7 @@ a {
     margin: 201.61px auto auto auto;
     font-size: 1rem;
   }
-  
+
   kbd {
     background-color: #fafbfc;
     border: 1px solid #c6cbd1;
@@ -246,7 +246,7 @@ a {
     border: solid 1px $border-color;
     border-radius: 0.3rem;
 
-    > code {
+    >code {
       padding: 0;
       margin: 0;
       font-size: 0.9rem;
@@ -384,4 +384,23 @@ a {
 
 .site-footer-credits {
   color: $blockquote-text-color;
+}
+
+#ipImgDiv {
+  width: 500px;
+  height: 210px;
+  margin: auto;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+#ipImg {
+  transition: .4s all;
+  transform: scale(1.1);
+  filter: blur(8px);
+}
+
+#ipImg:hover {
+  transform: scale(1);
+  filter: blur(0px);
 }

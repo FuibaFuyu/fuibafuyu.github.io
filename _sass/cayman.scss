@@ -2,22 +2,3 @@
 //     @import "{{ site.theme }}";
 // Then using this theme with jekyll-remote-theme will work fine.
 @import "jekyll-theme-cayman";
-
-#ipImgDiv {
-    width: 500px;
-    height: 210px;
-    margin: auto;
-    border-radius: 8px;
-    overflow: hidden;
-}
-
-#ipImg {
-    transition: .4s all;
-    transform: scale(1.1);
-    filter: blur(8px);
-}
-
-#ipImg:hover {
-    transform: scale(1);
-    filter: blur(0px);
-}
