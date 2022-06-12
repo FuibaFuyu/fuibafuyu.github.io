@@ -114,6 +114,7 @@ a {
   backdrop-filter: blur(10px);
   color: $header-heading-color;
   text-align: center;
+  z-index: 1;
 
   @include large {
     padding: 5rem 6rem;
