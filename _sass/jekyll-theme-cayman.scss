@@ -387,11 +387,23 @@ a {
 }
 
 #ipImgDiv {
-  max-width: 500px;
-  max-height: 210px;
   margin: auto;
   border-radius: 8px;
   overflow: hidden;
+
+  @include large {
+    width: 500px;
+    height: 210px;
+  }
+
+  @include medium {
+    width: 500px;
+    height: 210px;
+  }
+
+  @include small {
+    width: 100%;
+  }
 }
 
 #ipImg {
