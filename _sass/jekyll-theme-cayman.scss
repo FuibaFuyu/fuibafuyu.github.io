@@ -385,34 +385,3 @@ a {
 .site-footer-credits {
   color: $blockquote-text-color;
 }
-
-#ipImgDiv {
-  margin: auto;
-  border-radius: 8px;
-  overflow: hidden;
-
-  @include large {
-    width: 500px;
-    height: 210px;
-  }
-
-  @include medium {
-    width: 500px;
-    height: 210px;
-  }
-
-  @include small {
-    width: 100%;
-  }
-}
-
-#ipImg {
-  transition: .4s all;
-  transform: scale(1.1);
-  filter: blur(8px);
-}
-
-#ipImg:hover {
-  transform: scale(1);
-  filter: blur(0px);
-}
