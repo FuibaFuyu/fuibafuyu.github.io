@@ -387,8 +387,8 @@ a {
 }
 
 #ipImgDiv {
-  width: 500px;
-  height: 210px;
+  max-width: 500px;
+  max-height: 210px;
   margin: auto;
   border-radius: 8px;
   overflow: hidden;
