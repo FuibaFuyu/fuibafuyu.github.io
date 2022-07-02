@@ -1,12 +1,30 @@
 ## Minecraft for Android
 
-# 1.19.0.05
+# 1.19.2.02 - 64bit
 
 <p align="center">
-    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/123/Program/Android/Minecraft/Minecraft_1.19.0.05.apk">联通下载</a>
-    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/139/Program/Android/Minecraft/Minecraft_1.19.0.05.apk">移动下载</a>
-    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/Ali/Program/Android/Minecraft/Minecraft_1.19.0.05.apk">国内下载</a>
-    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/OD/Program/Android/Minecraft/Minecraft_1.19.0.05.apk">国际下载</a>
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/123/Program/Android/Minecraft/Minecraft_1.19.2.02_arm64-v8a.apk">联通下载</a>
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/139/Program/Android/Minecraft/Minecraft_1.19.2.02_arm64-v8a.apk">移动下载</a>
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/Ali/Program/Android/Minecraft/Minecraft_1.19.2.02_arm64-v8a.apk">国内下载</a>
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/OD/Program/Android/Minecraft/Minecraft_1.19.2.02_arm64-v8a.apk">国际下载</a>
+</p>
+
+# 1.19.0.05 - 64bit
+
+<p align="center">
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/123/Program/Android/Minecraft/Minecraft_1.19.0.05_arm64-v8a.apk">联通下载</a>
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/139/Program/Android/Minecraft/Minecraft_1.19.0.05_arm64-v8a.apk">移动下载</a>
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/Ali/Program/Android/Minecraft/Minecraft_1.19.0.05_arm64-v8a.apk">国内下载</a>
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/OD/Program/Android/Minecraft/Minecraft_1.19.0.05_arm64-v8a.apk">国际下载</a>
+</p>
+
+# 1.19.0.05 - 32bit
+
+<p align="center">
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/123/Program/Android/Minecraft/Minecraft_1.19.0.05_armeabi-v7a.apk">联通下载</a>
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/139/Program/Android/Minecraft/Minecraft_1.19.0.05_armeabi-v7a.apk">移动下载</a>
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/Ali/Program/Android/Minecraft/Minecraft_1.19.0.05_armeabi-v7a.apk">国内下载</a>
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/OD/Program/Android/Minecraft/Minecraft_1.19.0.05_armeabi-v7a.apk">国际下载</a>
 </p>
 
 # 1.18.32.02 - 64bit

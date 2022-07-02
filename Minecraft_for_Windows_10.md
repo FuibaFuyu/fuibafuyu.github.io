@@ -1,5 +1,14 @@
 ## Minecraft for Windows 10
 
+# 1.19.2.02
+
+<p align="center">
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/123/Program/Windows/Minecraft/Bedrock/Microsoft.MinecraftUWP_1.19.202.0_x64__8wekyb3d8bbwe.Appx">联通下载</a>
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/139/Program/Windows/Minecraft/Bedrock/Microsoft.MinecraftUWP_1.19.202.0_x64__8wekyb3d8bbwe.Appx">移动下载</a>
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/Ali/Program/Windows/Minecraft/Bedrock/Microsoft.MinecraftUWP_1.19.202.0_x64__8wekyb3d8bbwe.Appx">国内下载</a>
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.cn/d/OD/Program/Windows/Minecraft/Bedrock/Microsoft.MinecraftUWP_1.19.202.0_x64__8wekyb3d8bbwe.Appx">国际下载</a>
+</p>
+
 # 1.19.0.05
 
 <p align="center">
