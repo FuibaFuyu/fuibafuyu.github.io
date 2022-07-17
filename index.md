@@ -15,26 +15,34 @@
 
 # MC服务器
 
-## 游戏介绍
+## Java版
 
-游戏版本：Minecraft BE 1.19.10.03
+游戏版本：1.19
 
 游戏模式：生存
 
 游戏难度：困难
 
-作弊：否
+在线验证：否
+
+服务器地址：java.fuibafuyu.cn
+
+## 基岩版
+
+游戏版本：1.19.10.03
+
+游戏模式：生存
+
+游戏难度：困难
 
 在线验证：是
 
-服务器地址：server.fuibafuyu.cn
-
-端口：19132
+服务器地址：bedrock.fuibafuyu.cn
 
 ## 游戏下载
 
 >[Android（解验证版）](/Minecraft_for_Android "要致富，先撸树。")<br>
->[Windows（需正版）](/Minecraft_for_Windows_10 "此生无悔入MC，来世愿做方块人。")
+>[Windows 基岩版（需正版）](/Minecraft_for_Windows_10 "此生无悔入MC，来世愿做方块人。")
 
 ## 游戏视频（雾
 
