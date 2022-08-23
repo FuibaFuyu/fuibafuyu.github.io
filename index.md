@@ -17,17 +17,27 @@
 
 ## 游戏介绍
 
-游戏版本：Minecraft BE 1.19.10.03
+游戏版本：Java 1.19.2 / Bedrock 1.19.20.02
 
 游戏模式：生存
 
 游戏难度：困难
 
-在线验证：是
+在线验证：否
 
-服务器地址：server.fuibafuyu.cn
+IPv6 地址：fuibafuyu.love
 
-## 游戏下载
+IPv6 Java版端口：25565
+
+IPv6 基岩版端口：19132
+
+IPv4 地址：ipv4.fuibafuyu.love
+
+IPv4 Java版端口：55555
+
+IPv4 基岩版端口：22222
+
+## 游戏下载（基岩版）
 
 >[Android（解验证版）](/Minecraft_for_Android "要致富，先撸树。")<br>
 >[Windows（需正版）](/Minecraft_for_Windows_10 "此生无悔入MC，来世愿做方块人。")
