@@ -10,7 +10,7 @@
 >[奈奈定制系统](/kagurananaos "By bilibili@sukikirakira")<br>
 >[Windows 11 精简版](/11)<br>
 >[Windows 10 精简版](/10)<br>
->[Windows 8.1 精简版](/8.1)<br>
+>[Windows 8 精简版](/8)<br>
 >[Windows 7 精简版](/7)
 
 # MC服务器
