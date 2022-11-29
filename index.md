@@ -15,7 +15,9 @@
 
 # MC服务器
 
-## 游戏介绍
+## 游戏信息
+
+游戏介绍：Java基岩互通的原版生存服务器
 
 游戏版本：Java 1.19.2 / Bedrock 1.19.41
 
@@ -23,19 +25,19 @@
 
 游戏难度：困难
 
-在线验证：否
+在线验证：是（需Java正版账号）
 
-IPv6 地址：fuibafuyu.love
+Java版地址（IPv6）：fuibafuyu.love
 
-IPv6 Java版端口：25565
+Java版地址（IPv4）：ipv4.fuibafuyu.love:55555
 
-IPv6 基岩版端口：19132
+基岩版地址（IPv6）：fuibafuyu.love
 
-IPv4 地址：ipv4.fuibafuyu.love
+基岩版端口（IPv6）：19132
 
-IPv4 Java版端口：55555
+基岩版地址（IPv4）：ipv4.fuibafuyu.love
 
-IPv4 基岩版端口：22222
+基岩版端口（IPv4）：22222
 
 ## 游戏下载（基岩版）
 
