@@ -25,7 +25,7 @@
 
 游戏难度：困难
 
-在线验证：是（需Java正版账号）
+在线验证：否（使用 AuthMe 插件）
 
 Java版地址（IPv6）：fuibafuyu.love
 
