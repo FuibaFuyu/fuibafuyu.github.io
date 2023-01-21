@@ -1,4 +1,4 @@
-## <a style="color: #fff" href="https://space.bilibili.com/640736191" target="_blank" rel="noopener noreferrer" title="By bilibili@屑屑你荧妹妹">奈奈定制系统</a>
+## <a style="color: #fff" href="https://space.bilibili.com/640736191" target="_blank" rel="noopener noreferrer" title="By bilibili@rana233">奈奈定制系统</a>
 
 <p align="center">
     <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/123/System/Windows/kaguranana/kaguranana%20OS.wim">联通下载</a>
