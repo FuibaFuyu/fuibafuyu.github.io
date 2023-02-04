@@ -7,6 +7,7 @@
 
 # 系统下载
 
+>[warma OS](/warmaos "By bilibili@rana233")<br>
 >[奈奈定制系统](/kagurananaos "By bilibili@rana233")<br>
 >[Windows 11 精简版](/11)<br>
 >[Windows 10 精简版](/10)<br>
