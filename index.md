@@ -18,34 +18,13 @@
 
 ## 游戏信息
 
-游戏介绍：Java基岩互通的原版生存服务器
-
-Java版本：1.9 - 1.19.3（基于1.19.2）
-
-基岩版本：1.19.0.05 - 1.19.51.01
-
-游戏模式：生存
-
-游戏难度：困难
-
-在线验证：否（使用 AuthMe 插件）
-
-Java版地址（IPv6）：fuibafuyu.love
-
-Java版地址（IPv4）：ipv4.fuibafuyu.love:55555
-
-基岩版地址（IPv6）：fuibafuyu.love
-
-基岩版端口（IPv6）：19132
-
-基岩版地址（IPv4）：ipv4.fuibafuyu.love
-
-基岩版端口（IPv4）：22222
+>[原版生存](/Minecraft_Survival)<br>
+>[起床战争](/Minecraft_BedWars)
 
 ## 游戏下载（基岩版）
 
->[Android（解验证版）](/Minecraft_for_Android "要致富，先撸树。")<br>
->[Windows（需正版）](/Minecraft_for_Windows_10 "此生无悔入MC，来世愿做方块人。")
+>[Android（解验证版）](/Minecraft_for_Android)<br>
+>[Windows（需正版）](/Minecraft_for_Windows_10)
 
 ## 游戏视频（雾
 
