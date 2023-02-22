@@ -118,6 +118,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   z-index: 1;
+  transition: all 1s ease;
 
   @include large {
     padding: 5rem 6rem;
@@ -129,6 +130,12 @@ a {
 
   @include small {
     padding: 2rem 1rem;
+  }
+}
+
+.page-header.shrink {
+  @include large {
+    padding: 3.5rem 6rem;
   }
 }
 
