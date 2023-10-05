@@ -32,7 +32,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
-  background: url(https://img1.imgtp.com/2023/03/04/k9zxO0eh.jpg) no-repeat center / cover fixed;
+  background: url(https://img1.imgtp.com/2023/10/05/gMiQCRrK.jpg) no-repeat center / cover fixed;
   background-color: rgba(0, 0, 0, .2);
   background-blend-mode: multiply;
 }
@@ -393,4 +393,12 @@ a {
 
 .site-footer-credits {
   color: $blockquote-text-color;
+}
+
+#back {
+  transition: all .5s ease;
+}
+
+#back.shrink {
+  height: 0px;
 }

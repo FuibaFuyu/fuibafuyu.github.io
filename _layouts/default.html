@@ -57,11 +57,11 @@
             var currentScrollPos = window.pageYOffset;
             if (prevScrollpos > currentScrollPos) {
                 document.querySelector(".project-tagline").style.display = "block";
-                document.querySelector("#back").style.display = "inline-block";
+                document.querySelector("#back").classList.remove('shrink');
                 document.querySelector(".page-header").classList.remove("shrink");
             } else {
                 document.querySelector(".project-tagline").style.display = "none";
-                document.querySelector("#back").style.display = "none";
+                document.querySelector("#back").classList.add('shrink');
                 document.querySelector(".page-header").classList.add("shrink");
             }
             prevScrollpos = currentScrollPos;
