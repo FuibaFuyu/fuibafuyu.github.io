@@ -58,6 +58,7 @@ body {
 a {
   color: $body-text-color;
   text-decoration: none;
+  transition: color .2s ease;
 
   &:hover {
     color: $body-link-color;
@@ -74,7 +75,7 @@ a {
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
-  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+  transition: color .2s ease, border-color .4s ease, background-color .4s ease;
 
   &:hover {
     color: rgba(255, 255, 255, 0.8);
@@ -107,6 +108,21 @@ a {
       margin-left: 0;
     }
   }
+}
+
+#back {
+  transition: color .2s ease, height .5s ease, padding .5s ease, font-size .5s ease, margin-top .5s ease, border-color .4s ease, border-width .4s ease, margin-bottom .5s ease, background-color .4s ease;
+}
+
+#back.shrink {
+  color: rgba(255, 255, 255, 0);
+  height: 0;
+  padding: 0;
+  font-size: 0;
+  margin-top: 0;
+  border-color: rgba(255, 255, 255, 0);
+  border-width: 0;
+  margin-bottom: 0;
 }
 
 .page-header {
@@ -408,19 +424,4 @@ a {
 
 .site-footer-credits {
   color: $blockquote-text-color;
-}
-
-#back {
-  transition: color .2s ease, height .5s ease, padding .5s ease, font-size .5s ease, margin-top .5s ease, border-color .4s ease, border-width .4s ease, margin-bottom .5s ease;
-}
-
-#back.shrink {
-  color: rgba(255, 255, 255, 0);
-  height: 0;
-  padding: 0;
-  font-size: 0;
-  margin-top: 0;
-  border-color: rgba(255, 255, 255, 0);
-  border-width: 0;
-  margin-bottom: 0;
 }
