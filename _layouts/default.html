@@ -21,6 +21,14 @@
     <link rel="icon" type="iamge/png" sizes="128x128" href="https://jsd.nn.ci/gh/FuibaFuyu/fuibafuyu.github.io/icon/favicon-128.png">
     <link rel="shortcut icon" type="image/x-icon" href="https://jsd.nn.ci/gh/FuibaFuyu/fuibafuyu.github.io/icon/favicon.ico">
 
+    <script>
+        var isIE = /MSIE|Trident/.test(window.navigator.userAgent);
+
+        if (isIE) {
+            window.location.href = "ie_not_supported";
+        }
+    </script>
+
     <style> 
         #content_progress {
             /* Positioning */
