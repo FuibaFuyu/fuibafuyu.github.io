@@ -396,10 +396,15 @@ a {
 }
 
 #back {
-  transition: all .5s ease;
+  transition: color .2s ease, height .5s ease, padding .5s ease, font-size .5s ease, margin-top .5s ease, border-color .5s ease, margin-bottom .5s ease;
 }
 
 #back.shrink {
-  height: 0px;
-  font-size: 0rem;
+  color: rgba(255, 255, 255, 0);
+  height: 0;
+  padding: 0;
+  font-size: 1px;
+  margin-top: 0;
+  border-color: rgba(255, 255, 255, 0);
+  margin-bottom: 0;
 }
