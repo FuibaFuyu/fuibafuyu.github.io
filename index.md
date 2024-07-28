@@ -14,12 +14,12 @@
 >[Windows 8 精简版](/8)<br>
 >[Windows 7 精简版](/7)
 
-# MC服务器（暂时停服）
+# MC服务器
 
 ## 游戏信息
 
 >[原版生存](/Minecraft_Survival)<br>
->[起床战争](/Minecraft_BedWars)
+>[起床战争（暂时停服）](/Minecraft_BedWars)
 
 ## 游戏下载（基岩版）
 
