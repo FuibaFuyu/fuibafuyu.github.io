@@ -4,7 +4,7 @@
 
 Java版本：1.17 - 1.21
 
-基岩版本：1.21
+基岩版本：1.21.2
 
 游戏模式：生存
 
@@ -12,8 +12,6 @@ Java版本：1.17 - 1.21
 
 在线验证：否
 
-Java版地址：mc.fuibafuyu.net
-
-基岩版地址：be.fuibafuyu.net
+地址：mc.fuibafuyu.net
 
 基岩版端口：51052
