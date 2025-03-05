@@ -23,8 +23,8 @@
 
 ## 游戏下载（基岩版）
 
->[Android（解验证版）](/Minecraft_for_Android)<br>
->[Windows（需正版）](/Minecraft_for_Windows_10)
+>[Android](https://bbk.endyun.ltd/main)<br>
+>[Windows](https://www.mcappx.com)
 
 ## 游戏视频（雾
 
