@@ -30,6 +30,7 @@ Java版本：1.17 - 1.21.3
     <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/OD/Minecraft/versions/1.19.4-FuibaFuyu.7z">1.19.4</a>
     <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/OD/Minecraft/versions/1.20.1-FuibaFuyu.7z">1.20.1</a>
     <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/OD/Minecraft/versions/1.21-FuibaFuyu.7z">1.21</a>
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/OD/Minecraft/versions/1.21.4-FuibaFuyu.7z">1.21.4</a>
 </p>
 
 ### 使用方式
