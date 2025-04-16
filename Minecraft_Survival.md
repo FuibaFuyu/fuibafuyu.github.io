@@ -6,7 +6,7 @@
 
 服务器交流群：<a rel="noopener noreferrer" href="https://qm.qq.com/q/Gse34ypvOe">748625855</a>
 
-Java版本：1.17 - 1.21.3
+Java版本：1.17 - 1.21.5
 
 基岩版本：1.21.x
 
