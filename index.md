@@ -19,7 +19,7 @@
 ## 游戏信息
 
 >[原版生存](/Minecraft_Survival)<br>
->[起床战争（暂时停服）](/Minecraft_BedWars)
+>[起床战争](/Minecraft_BedWars)
 
 ## 游戏下载（基岩版）
 
