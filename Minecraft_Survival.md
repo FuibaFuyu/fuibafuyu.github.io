@@ -6,7 +6,7 @@
 
 服务器交流群：<a rel="noopener noreferrer" href="https://qm.qq.com/q/Gse34ypvOe">748625855</a>
 
-Java版本：1.17 - 1.21.5
+Java版本：1.17 - 1.21.7
 
 基岩版本：1.21.x
 
@@ -29,9 +29,10 @@ Java版本：1.17 - 1.21.5
     <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/db/Minecraft/versions/1.16.5-Fabric-Sodium.7z" title="OptiFine 与 Sodium 是两款优化 Mod，前者拥有更好的光影性能和光影兼容性，但不兼容背包背景模糊 Mod，后者拥有更好的优化和 Mod 兼容性，但无连接材质（无缝玻璃）">1.16.5 Sodium</a><br>
     <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/db/Minecraft/versions/1.19.4-FuibaFuyu.7z">1.19.4</a>
     <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/db/Minecraft/versions/1.20.1-FuibaFuyu.7z">1.20.1</a>
-    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/db/Minecraft/versions/1.21-FuibaFuyu.7z">1.21</a>
-    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/db/Minecraft/versions/1.21.4-FuibaFuyu.7z">1.21.4</a><br>
-    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/db/Minecraft/versions/1.21.5-FuibaFuyu-Preview.7z">1.21.5 前瞻版</a>
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/db/Minecraft/versions/1.21-FuibaFuyu.7z">1.21</a><br>
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/db/Minecraft/versions/1.21.4-FuibaFuyu.7z">1.21.4</a>
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/db/Minecraft/versions/1.21.5-FuibaFuyu.7z">1.21.5</a>
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/db/Minecraft/versions/1.21.7-FuibaFuyu.7z">1.21.7</a>
 </p>
 
 ### 使用方式
