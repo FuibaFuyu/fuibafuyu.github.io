@@ -1,8 +1,6 @@
 @import "normalize";
 @import "rouge-github";
 @import "variables";
-@import url('https://fonts.googleapis.com/css?family=Google+Sans:400,700%7CNoto+Sans+SC:400,700%7C&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
@@ -29,7 +27,7 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "Google Sans", "Noto Sans SC", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Inter", "Noto Sans SC", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
@@ -425,4 +423,32 @@ a {
 
 .site-footer-credits {
   color: $blockquote-text-color;
+}
+
+#content_progress {
+  /* Positioning */
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+  height: 2px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: none;
+  background-color: transparent;
+  color: #fb7299;
+}
+
+#content_progress::-webkit-progress-bar {
+  background-color: transparent;
+}
+
+#content_progress::-webkit-progress-value {
+  background-color: #fb7299;
+}
+
+#content_progress::-moz-progress-bar {
+  background-color: #fb7299;
 }
