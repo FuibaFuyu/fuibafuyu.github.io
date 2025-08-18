@@ -139,15 +139,15 @@ a {
   z-index: 1;
 
   @include large {
-    padding: 5rem 6rem;
+    padding: 10.8rem 6rem;
   }
 
   @include medium {
-    padding: 3rem 4rem;
+    padding: 7.84rem 4rem;
   }
 
   @include small {
-    padding: 2rem 1rem;
+    padding: 6.6rem 1rem;
   }
 }
 
@@ -176,7 +176,15 @@ a {
 
 .page-header.page-header-back.shrink {
   @include large {
-    padding: 3.5rem 6rem;
+    padding: 6.15rem 6rem;
+  }
+
+  @include medium {
+    padding: 4.9rem 4rem;
+  }
+
+  @include small {
+    padding: 3.6rem 1rem;
   }
 }
 
