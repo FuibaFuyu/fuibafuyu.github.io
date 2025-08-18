@@ -38,12 +38,12 @@
             var currentScrollPos = window.pageYOffset;
             if (prevScrollpos > currentScrollPos) {
                 document.querySelector("#back").classList.remove('shrink');
-                document.querySelector(".page-header").classList.remove("shrink");
+                document.querySelector(".page-header.page-header-back").classList.remove("shrink");
                 document.querySelector(".page-header.page-header-box").classList.remove("shrink");
                 document.querySelector(".project-name").classList.remove("shrink");
             } else {
                 document.querySelector("#back").classList.add('shrink');
-                document.querySelector(".page-header").classList.add("shrink");
+                document.querySelector(".page-header.page-header-back").classList.add("shrink");
                 document.querySelector(".page-header.page-header-box").classList.add("shrink");
                 document.querySelector(".project-name").classList.add("shrink");
             }
