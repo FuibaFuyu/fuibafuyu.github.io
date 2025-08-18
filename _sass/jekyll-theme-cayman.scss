@@ -148,6 +148,17 @@ a {
   }
 }
 
+.page-header.page-header-box {
+  top: 8px;
+  left: 8px;
+  width: calc(100%-16px);
+  background-color: rgba(30, 30, 30, .1);
+  border: 1px solid hsla(0, 0%, 100%, .1);
+  box-shadow: 0 4px 15px rgba(0,0,0,.1);
+  z-index: 2;
+  border-radius: 20px;
+}
+
 .page-header.shrink {
   @include large {
     padding: 3.5rem 6rem;
