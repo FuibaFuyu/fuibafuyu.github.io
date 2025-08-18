@@ -126,7 +126,6 @@ a {
 
 .page-header {
   position: fixed;
-  backdrop-filter: blur(10px);
   color: $header-heading-color;
   text-align: center;
   transition: all .5s ease;
@@ -137,6 +136,12 @@ a {
   width: 100%;
   background-color: rgba(0, 0, 0, .1);
   z-index: 1;
+  backdrop-filter: blur(4px);
+  mask-image: linear-gradient(
+    to bottom,
+    black 80%,
+    transparent 100%
+  );
 
   @include large {
     padding: 10.8rem 6rem;
@@ -159,6 +164,7 @@ a {
   border: 1px solid hsla(0, 0%, 100%, .1);
   box-shadow: 0 4px 15px rgba(0,0,0,.1);
   z-index: 2;
+  backdrop-filter: blur(8px);
   border-radius: 20px;
 
   @include large {
