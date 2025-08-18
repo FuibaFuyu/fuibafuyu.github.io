@@ -125,15 +125,18 @@ a {
 }
 
 .page-header {
-  top: 0;
-  width: 100%;
   position: fixed;
   backdrop-filter: blur(10px);
-  background-color: rgba(0, 0, 0, .1);
   color: $header-heading-color;
   text-align: center;
-  z-index: 1;
   transition: all .5s ease;
+}
+
+.page-header.page-header-back {
+  top: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, .1);
+  z-index: 1;
 
   @include large {
     padding: 5rem 6rem;
@@ -157,9 +160,27 @@ a {
   box-shadow: 0 4px 15px rgba(0,0,0,.1);
   z-index: 2;
   border-radius: 20px;
+
+  @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
 }
 
-.page-header.shrink {
+.page-header.page-header-back.shrink {
+  @include large {
+    padding: 3.5rem 6rem;
+  }
+}
+
+.page-header.page-header-box.shrink {
   @include large {
     padding: 3.5rem 6rem;
   }
