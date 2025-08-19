@@ -34,20 +34,41 @@
 
     <script>
         var prevScrollpos = window.pageYOffset;
+        var lastScrollTime = Date.now();
+        var scrollSpeed = 0;
+
         window.onscroll = function () {
             var currentScrollPos = window.pageYOffset;
-            if (prevScrollpos > currentScrollPos) {
+            var currentTime = Date.now();
+            var timeDiff = currentTime - lastScrollTime;
+
+            // 计算滚动速度 (像素/毫秒)
+            scrollSpeed = Math.abs(currentScrollPos - prevScrollpos) / timeDiff;
+
+            // 如果页面在顶部，展开顶栏
+            if (currentScrollPos === 0) {
                 document.querySelector("#back").classList.remove('shrink');
                 document.querySelector(".page-header.page-header-back").classList.remove("shrink");
                 document.querySelector(".page-header.page-header-box").classList.remove("shrink");
                 document.querySelector(".project-name").classList.remove("shrink");
+            } else if (prevScrollpos > currentScrollPos) {
+                // 向上滚动
+                if (scrollSpeed > 4) { // 速度阈值，可以根据需要调整
+                    document.querySelector("#back").classList.remove('shrink');
+                    document.querySelector(".page-header.page-header-back").classList.remove("shrink");
+                    document.querySelector(".page-header.page-header-box").classList.remove("shrink");
+                    document.querySelector(".project-name").classList.remove("shrink");
+                }
             } else {
+                // 向下滚动，始终收缩
                 document.querySelector("#back").classList.add('shrink');
                 document.querySelector(".page-header.page-header-back").classList.add("shrink");
                 document.querySelector(".page-header.page-header-box").classList.add("shrink");
                 document.querySelector(".project-name").classList.add("shrink");
             }
+
             prevScrollpos = currentScrollPos;
+            lastScrollTime = currentTime;
         }
     </script>
 
@@ -89,15 +110,9 @@
             <p><a href="http://royofficial.com" target="_blank" rel="noopener noreferrer">Royの主页</a></p>
             <!-- <p><a href="https://www.bzdjsm.com" target="_blank" rel="noopener noreferrer">BZDJSM资源分享站</a></p> -->
 
-            <div align="center" style="filter: grayscale(1) invert(1)"><iframe src="https://2025.ip138.com" rel="nofollow" width="100%" height="26" frameborder="0" scrolling="no"></iframe></div>
+            <div align="center">本站已稳定运行：<span id="htmer_time"></span></div>
 
-            <div align="center">
-                本站已稳定运行：<span id="htmer_time"></span>
-            </div>
-
-            <div align="center">
-                <span><a style="color: #fff" href="https://icp.gov.moe/?keyword=20222238" target="_blank"><img style="width:32px;height:32px;margin-bottom:-8px" src="https://icp.gov.moe/images/ico64.png">萌ICP备20222238号</a></span>
-            </div>
+            <div align="center"><span><a style="color: #fff" href="https://icp.gov.moe/?keyword=20222238" target="_blank"><img style="width:32px;height:32px;margin-bottom:-8px" src="https://icp.gov.moe/images/ico64.png">萌ICP备20222238号</a></span></div>
         </footer>
     </main>
 </body>
