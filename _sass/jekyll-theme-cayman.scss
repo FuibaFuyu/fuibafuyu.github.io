@@ -195,9 +195,10 @@ a {
 }
 
 .page-header.page-header-box.shrink {
-  @include large {
-    padding: 3.5rem 6rem;
-  }
+  width: auto;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 11px 21px;
 }
 
 .project-name {
@@ -219,6 +220,9 @@ a {
 }
 
 .project-name.shrink {
+  font-size: 1.25rem;
+  font-weight: normal;
+
   @include large {
     margin-bottom: -3.7rem;
   }
