@@ -226,11 +226,11 @@ a {
   font-weight: 500;
 
   @include large {
-    margin-bottom: 0rem;
+    margin-bottom: -1.5rem;
   }
 
   @include medium {
-    margin-bottom: 0rem;
+    margin-bottom: -1.5rem;
   }
 
   @include small {
