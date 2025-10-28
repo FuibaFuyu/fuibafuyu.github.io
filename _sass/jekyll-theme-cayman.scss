@@ -205,7 +205,7 @@ a {
 
 .project-name {
   margin-top: 0;
-  margin-bottom: 0.1rem;
+  margin-bottom: 2rem;
   transition: all .5s ease;
 
   @include large {
@@ -226,33 +226,15 @@ a {
   font-weight: 500;
 
   @include large {
-    margin-bottom: -3.7rem;
+    margin-bottom: 0rem;
   }
 
   @include medium {
-    margin-bottom: -3.7rem;
+    margin-bottom: 0rem;
   }
 
   @include small {
-    margin-bottom: -2.1rem;
-  }
-}
-
-.project-tagline {
-  margin-bottom: 2rem;
-  font-weight: normal;
-  opacity: 0.7;
-
-  @include large {
-    font-size: 1.25rem;
-  }
-
-  @include medium {
-    font-size: 1.15rem;
-  }
-
-  @include small {
-    font-size: 1rem;
+    margin-bottom: 0rem;
   }
 }
 
