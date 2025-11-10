@@ -128,10 +128,10 @@ a {
   position: fixed;
   color: $header-heading-color;
   text-align: center;
-  transition: all .5s ease;
 }
 
 .page-header.page-header-back {
+  transition: padding .45s ease;
   top: 0;
   width: 100%;
   background-color: rgba(0, 0, 0, .1);
@@ -157,6 +157,7 @@ a {
 }
 
 .page-header.page-header-box {
+  transition: all .5s ease;
   top: 8px;
   left: 50%;
   transform: translateX(-50%);
