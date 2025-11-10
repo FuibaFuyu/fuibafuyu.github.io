@@ -134,7 +134,7 @@ a {
   transition: padding .45s ease;
   top: 0;
   width: 100%;
-  background-color: rgba(0, 0, 0, .1);
+  background-color: rgba(0, 0, 0, 0);
   z-index: 1;
   backdrop-filter: blur(1px);
   mask-image: linear-gradient(
