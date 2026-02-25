@@ -21,10 +21,11 @@
 >[原版生存](/Minecraft_Survival)<br>
 >[起床战争](/Minecraft_BedWars)
 
-## 游戏下载（基岩版）
+## 游戏下载
 
 >[Android](https://bbk.endyun.ltd/main)<br>
->[Windows](https://www.mcappx.com)
+>[Minecraft for Windows](https://www.mcappx.com)<br>
+>[Java Edition 优化辅助整合包](/Minecraft_Survival#下载地址)
 
 ## 游戏视频（雾
 
