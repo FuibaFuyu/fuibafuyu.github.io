@@ -6,9 +6,9 @@
 
 服务器交流群：<a rel="noopener noreferrer" href="https://qm.qq.com/q/Gse34ypvOe">748625855</a>
 
-Java版本：1.17 - 1.21.8
+Java版本：1.17 - 1.21.11
 
-基岩版本：1.21.x
+基岩版本：26.x
 
 游戏模式：生存
 
