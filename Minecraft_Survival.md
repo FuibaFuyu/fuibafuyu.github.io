@@ -31,7 +31,7 @@ Java版本：1.17 - 1.21.11
     <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/OD/Minecraft/versions/1.20.1-FuibaFuyu.7z">1.20.1</a><br>
     <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/OD/Minecraft/versions/1.21-FuibaFuyu.7z">1.21</a>
     <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/OD/Minecraft/versions/1.21.4-FuibaFuyu.7z">1.21.4</a>
-    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/OD/Minecraft/versions/1.21.5-FuibaFuyu.7z">1.21.5</a>
+    <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/OD/Minecraft/versions/1.21.5-FuibaFuyu.mrpack">1.21.5</a>
     <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/OD/Minecraft/versions/1.21.7-FuibaFuyu.7z">1.21.7</a>
     <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/OD/Minecraft/versions/1.21.8-FuibaFuyu.7z">1.21.8</a>
     <a class="btn" rel="noopener noreferrer" href="https://download.fuibafuyu.net/d/OD/Minecraft/versions/1.21.11-FuibaFuyu.7z">1.21.11</a>
